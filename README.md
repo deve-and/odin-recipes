@@ -1,2 +1,4 @@
 # odin-recipes
-Site simples apenas com estrutura html, com links relativos
+
+Site de receitas, usei uma estrutura simples html nada semântico ainda. Usei apenas links relativos para navegação interna. 
+
